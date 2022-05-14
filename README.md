@@ -16,4 +16,4 @@ In the past, I have worked with [**eClinicalWorks**](https://www.eclinicalworks.
 
 ### How to reach me 📱
 
-[<img target="_blank" src="https://github.com/brianlobo394/brianlobo394/blob/main/Images/icons8-whatsapp.gif"/>](https://wa.me/919967666496) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/brianlobo394/)
+[<img target="_blank" src="https://github.com/brianlobo394/brianlobo394/blob/main/Images/whatsapp.png"/>](https://wa.me/919967666496) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/brianlobo394/)
