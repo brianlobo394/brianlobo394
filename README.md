@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Implementation Engineer at [**Arcon TechSolutions**](https://arconnet.com/). I come with an extensive experience of working with different roles and technologies including Product Implementation, Data Analysis and Machine Learning .
+I am currently working as a Implementation Engineer at [**Arcon TechSolutions**](https://arconnet.com/). I come with an extensive experience of working with different roles and technologies. Through development of personal projects and learning experience of SQL, Python, Data visualization, I have learned the importance of having iterative, hypothesis oriented approach to analysis.
 
 In the past, I have worked with [**eClinicalWorks**](https://www.eclinicalworks.com/) as Software Specialists 
 
@@ -11,7 +11,9 @@ In the past, I have worked with [**eClinicalWorks**](https://www.eclinicalworks.
 
 **Libraries & Tools:** Lambda Functions, NumPy, Pandas, Matplotlib, Seaborn.
 
-**Data Analysis:** Exploratory Data Analysis, MS Excel, Tableau, PowerBI.
+**Data Analysis:** Exploratory Data Analysis, MS Excel, PowerBI, Tableau.
+
 
 ### How to reach me 📱
-Known on internet as [**brianlobo394**](https://github.com/brianlobo394) 
+
+[<img target="_blank" src="https://github.com/brianlobo394/brianlobo394/blob/main/Images/icons8-whatsapp.gif"/>](https://wa.me/919967666496) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/brianlobo394/)
